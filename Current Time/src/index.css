@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  background-color: rgb(149, 126, 95);
+}
+
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+text-align: center;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 40PX;
+color: rgb(255, 255, 255);
+  
+}
+.second-Head{
+  color: burlywood;
+  margin-top: 2%;
+}

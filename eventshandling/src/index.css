@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  background-color: rgb(176, 177, 179);
+}
+
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+button{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: xx-large;
+  height: 70px;
+  width: 150px;
+  border: 6px solid blueviolet;
+  background-color: rgb(99, 24, 170);
+  color: rgb(199, 201, 204);
+  border-radius: 6px;
+}
